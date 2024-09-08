@@ -1,5 +1,5 @@
 
-## Hi there! I'm Nandish Patel 👋
+## <div> Hi there! I'm Nandish Patel </div>👋
 Welcome to my GitHub profile! I'm a passionate Front-End Developer who loves building responsive and interactive user interfaces. My goal is to craft seamless web experiences that are both visually appealing and functionally robust.
 * 🚀 I'm currently working on building modern web applications projects using the MERN stack technologies along with exploring advanced CSS frameworks like Tailwind CSS.
 * 🌱 Currently expanding my expertise in MERN stack technologies, with plans to dive into data-driven technologies in the near future.
