@@ -9,4 +9,4 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer who loves bui
 *⚡ Fun Fact: When I'm not coding, you'll find me playing sports 😅!
 
 ## Languages and Tools:
-https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png  https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png
+html   https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png
