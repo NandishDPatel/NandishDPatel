@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer who loves bui
 * 👯 Open to collaborations I'm eager to collaborate on open-source front-end projects, especially those focused on improving UI/UX and accessibility.
 * 💬 Ask Me About: Front-end development best practices, from HTML5 and CSS3 along with JavaScript and React.
 * 📫 How to Reach Me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/nandishdpatel22/) or drop me an email at: nandishdpatel22@gmail.com.
-*⚡ Fun Fact: When I'm not coding, you'll find me playing sports 😅!
+* ⚡ Fun Fact: When I'm not coding, you'll find me playing sports 😅!
 
 ## Languages and Tools:
 <div align="center">
