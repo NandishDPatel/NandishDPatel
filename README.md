@@ -1,6 +1,5 @@
 
 ## <div align="center"> Hi there! I'm Nandish Patel 👋</div>
-Proactive Software Engineer with 3 years of experience in building scalable full-stack applications integrating LLM-based GenAI APIs, MERN stack, and React Native. Demonstrated success in deploying AI-driven features that enhance automation, personalization, and user engagement across enterprise web and mobile systems. Skilled in JavaScript, TypeScript, Node.js, Python, AWS, and GCP, with a focus on agile delivery, CI/CD automation, and cloud-native performance optimization.
 
 *  How to Reach Me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/nandishdpatel22/) or drop me an email at: nandishdpatel22@gmail.com.
 *  Fun Fact: When I'm not coding, you'll find me playing sports 😅!
