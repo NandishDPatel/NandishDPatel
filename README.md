@@ -1,12 +1,9 @@
 
 ## <div align="center"> Hi there! I'm Nandish Patel 👋</div>
-Welcome to my GitHub profile! I'm a passionate Front-End Developer who loves building responsive and interactive user interfaces. My goal is to craft seamless web experiences that are both visually appealing and functionally robust.
-* 🚀 I'm currently working on learning new technolgies like C#, Docker, and Kubernetes along with the cloud services, to expand my skill set.
-* 🌱 Currently expanding my expertise in MERN stack technologies, with plans to dive into data-driven technologies in the near future.
-* 👯 Open to collaborations I'm eager to collaborate on open-source front-end projects, especially those focused on improving UI/UX and accessibility.
-* 💬 Ask Me About: Front-end development best practices, from HTML5 and CSS3 along with JavaScript and React.
-* 📫 How to Reach Me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/nandishdpatel22/) or drop me an email at: nandishdpatel22@gmail.com.
-* ⚡ Fun Fact: When I'm not coding, you'll find me playing sports 😅!
+Proactive Software Engineer with 3 years of experience in building scalable full-stack applications integrating LLM-based GenAI APIs, MERN stack, and React Native. Demonstrated success in deploying AI-driven features that enhance automation, personalization, and user engagement across enterprise web and mobile systems. Skilled in JavaScript, TypeScript, Node.js, Python, AWS, and GCP, with a focus on agile delivery, CI/CD automation, and cloud-native performance optimization.
+
+*  How to Reach Me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/nandishdpatel22/) or drop me an email at: nandishdpatel22@gmail.com.
+*  Fun Fact: When I'm not coding, you'll find me playing sports 😅!
 
 ## Languages and Tools:
 <div align="center">
