@@ -2,7 +2,6 @@
 ## <div align="center"> Hi there! I'm Nandish Patel 👋</div>
 
 *  How to Reach Me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/nandishdpatel22/) or drop me an email at: nandishdpatel22@gmail.com.
-*  Fun Fact: When I'm not coding, you'll find me playing sports 😅!
 
 <!-- ## Languages and Tools: -->
 <!-- <div align="center">
