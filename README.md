@@ -3,7 +3,7 @@
 
 *  How to Reach Me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/nandishdpatel22/) or drop me an email at: nandishdpatel22@gmail.com.
 
-![Profile view counter](komarev.com)
+![NandishDPatel](komarev.com)
 
 <!-- ## Languages and Tools: -->
 <!-- <div align="center">
