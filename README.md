@@ -93,10 +93,10 @@ I'm a **Master's student in  Computer Science** at the University of Texas at Ar
         </a>
 </div>
 
-<div align="center" style="margin:5px;">
-	<img
-          src="https://komarev.com/ghpvc/?username=nandishdpatel&color=brightgreen&style=for-the-badge"
-        />
+<div align="center" style="padding: 10px;">
+	<div> </div>
+	<div> </div>
+  <img src="https://komarev.com/ghpvc/?username=nandishdpatel&color=brightgreen&style=for-the-badge" />
 </div>
 
 <!-- ## <div align="center"> Hi there! I'm Nandish Patel 👋</div>
