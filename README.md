@@ -1,8 +1,102 @@
+# Hi 👋, I'm Nandish Patel 
+## 💫 About Me 
+I'm a **Master's student in  Computer Science** at the University of Texas at Arlington, passionate about crafting robust and scalable software solutions. 
+- 🎓 **MS Computer Science** @ UT Arlington (GPA: 4.0/4.0)
+- 💼 **Software Engineer** with expertise in enterprise applications
+- 🌱 Currently exploring **Explainable AI** for medical diagnosis - 🚀 Open to collaboration on innovative projects
+- 📫 Reach me at: **nandishdpatel510@gmail.com** ---
 
-## <div align="center"> Hi there! I'm Nandish Patel 👋</div>
+## 🛠️ Tech Stack 
+
+**Frontend Development:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![shadCn UI](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-1a1a1a?style=for-the-badge&logo=framer)
+
+
+**Backend Development:**
+![Express.js](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+
+**Databases:**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**AI & LLMs:**
+
+**Cloud & Devops:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+**Version control & Project Management:**
+
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+
+
+--- ## 🌐 Connect With Me
+
+<div align="center">
+	<a href="mailto:nandishdpatel22@gmail.com">
+	<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+          />
+        </a>
+        <a href="https://www.linkedin.com/in/nandishdpatel22">
+          <img
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+          />
+        </a>
+        <a href="https://github.com/nandishdpatel">
+          <img
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+          />
+        </a>
+        <a href="https://nandishdpatel.github.io/portfolio">
+          <img
+            src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"
+          />
+        </a>
+</div>
+
+--- ## 🎯 Current Focus 
+- 🔬 **Research**: Explainable AI for Medical
+      Diagnosis
+- 📚 **Learning**: Advanced Machine Learning & Cloud Architecture
+- 🛠️ **Building**: Scalable AI-powered applications
+- 🤝 **Collaborating**: Open source projects and research initiatives ---
+
+<div align="center">
+	<img
+          src="https://komarev.com/ghpvc/?username=nandishdpatel&color=brightgreen&style=for-the-badge"
+        />
+</div>
+
+<!-- ## <div align="center"> Hi there! I'm Nandish Patel 👋</div>
 
 *  How to Reach Me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/nandishdpatel22/) or drop me an email at: nandishdpatel22@gmail.com.
-
+-->
 
 <!-- ## Languages and Tools: -->
 <!-- <div align="center">
