@@ -1,10 +1,12 @@
 # Hi 👋, I'm Nandish Patel 
 ## 💫 About Me 
-I'm a **Master's student in  Computer Science** at the University of Texas at Arlington, passionate about crafting robust and scalable software solutions. 
+I'm a **Master's student in  Computer Science** at the University of Texas at Arlington, passionate about buidling scalable and robust software solutions along with keen on learning topics in GenAI field. 
 - 🎓 **MS Computer Science** @ UT Arlington (GPA: 4.0/4.0)
-- 💼 **Software Engineer** with expertise in enterprise applications
-- 🌱 Currently exploring **Explainable AI** for medical diagnosis - 🚀 Open to collaboration on innovative projects
-- 📫 Reach me at: **nandishdpatel510@gmail.com** ---
+- 💼 **Software Engineer** with expertise in **MERN stack**
+- 🌱 Currently exploring **Gen AI** field and its usefulness with full stack development
+- 🚀 Open to collaboration on innovative projects
+- 🎯 Looking for full time opprtunities across USA
+- 📫 Reach me at: **nandishdpatel510@gmail.com**
 
 ## 🛠️ Tech Stack 
 
@@ -36,6 +38,12 @@ I'm a **Master's student in  Computer Science** at the University of Texas at Ar
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **AI & LLMs:**
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![chatGpt](https://img.shields.io/badge/ChatGPT-75a99c?logo=OpenAI&logoColor=white)
+![claude](https://img.shields.io/badge/Claude_Code-555?logo=claude)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=black)
 
 **Cloud & Devops:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -43,51 +51,49 @@ I'm a **Master's student in  Computer Science** at the University of Texas at Ar
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
-**Version control & Project Management:**
-
-**Tools:**
+**Version control & Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 
-
---- ## 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
-	<a href="mailto:nandishdpatel22@gmail.com">
+	<a href="mailto:nandishdpatel22@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
           />
         </a>
-        <a href="https://www.linkedin.com/in/nandishdpatel22">
+        <a href="https://www.linkedin.com/in/nandishdpatel22" target="_blank">
           <img
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
           />
         </a>
-        <a href="https://github.com/nandishdpatel">
+        <a href="https://github.com/nandishdpatel" target="_blank">
           <img
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
           />
         </a>
-        <a href="https://nandishdpatel.github.io/portfolio">
+        <a href="https://react-nandish-portfolio.vercel.app/" target="_blank">
           <img
-            src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"
+            src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=black"
+          />
+        </a>
+	        <a href="https://leetcode.com/u/nandishdpatel22/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode"
+          />
+        </a>
+	        <a href="https://www.hackerrank.com/profile/nandishdpatel22" target="_blank">
+          <img
+            src="https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank&logoColor=white&color=brightgreen"
           />
         </a>
 </div>
 
---- ## 🎯 Current Focus 
-- 🔬 **Research**: Explainable AI for Medical
-      Diagnosis
-- 📚 **Learning**: Advanced Machine Learning & Cloud Architecture
-- 🛠️ **Building**: Scalable AI-powered applications
-- 🤝 **Collaborating**: Open source projects and research initiatives ---
-
-<div align="center">
+<div align="center" style="margin:5px;">
 	<img
           src="https://komarev.com/ghpvc/?username=nandishdpatel&color=brightgreen&style=for-the-badge"
         />
