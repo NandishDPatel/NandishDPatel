@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nandish Patel 
 ## 💫 About Me 
 I'm a **Master's student in  Computer Science** at the University of Texas at Arlington, passionate about buidling scalable and robust software solutions along with keen on learning topics in GenAI field. 
-- 🎓 **MS Computer Science** @ UT Arlington (GPA: 4.0/4.0)
+- 🎓 **MS Computer Science** @ UT Arlington, USA (May'2025) (GPA: 4.0/4.0), **B.Tech in CSE** @ Ahmedabad University, India (May'2023)
 - 💼 **Software Engineer** with expertise in **MERN stack**
 - 🌱 Currently exploring **Gen AI** field and its usefulness with full stack development
 - 🚀 Open to collaboration on innovative projects
