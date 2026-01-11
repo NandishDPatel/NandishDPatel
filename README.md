@@ -6,7 +6,7 @@ I'm a **Master's student in  Computer Science** at the University of Texas at Ar
 - 🌱 Currently exploring **Gen AI** field and its usefulness with full stack development
 - 🚀 Open to collaboration on innovative projects
 - 🎯 Looking for full time opprtunities across USA
-- 📫 Reach me at: **nandishdpatel510@gmail.com**
+- 📫 Reach me at: **nandishdpatel22@gmail.com**
 
 ## 🛠️ Tech Stack 
 
