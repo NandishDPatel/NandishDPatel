@@ -7,6 +7,7 @@ I'm a **Master's student in  Computer Science** at the University of Texas at Ar
 - 🚀 Open to collaboration on innovative projects
 - 🎯 Looking for full time opprtunities across USA
 - 📫 Reach me at: **nandishdpatel22@gmail.com**
+- 💼 Portfolio: **https://react-nandish-portfolio.vercel.app/**
 
 ## 🛠️ Tech Stack 
 
