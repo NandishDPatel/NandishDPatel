@@ -8,6 +8,8 @@ I'm a **Master's student in  Computer Science** at the University of Texas at Ar
 - 🎯 Looking for full time opprtunities across USA
 - 📫 Reach me at: **nandishdpatel22@gmail.com**
 - 💼 Portfolio: **https://react-nandish-portfolio.vercel.app/**
+- 🌐 Live architect frontend website: **https://lineup-studio.vercel.app/**
+- 🌐 Live eshoppy frontend website: **https://eshoppy-website.vercel.app/**
 
 ## 🛠️ Tech Stack 
 
