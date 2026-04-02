@@ -11,6 +11,8 @@ I'm a **Master's student in  Computer Science** at the University of Texas at Ar
 - 🌐 Live architect frontend website: **https://lineup-studio.vercel.app/**
 - 🌐 Live eshoppy frontend website: **https://eshoppy-website.vercel.app/**
 
+- Want to play a card game with your friends ? Check it out: Judgment (Kachuful) => https://judgment-card-game.vercel.app/
+
 ## 🛠️ Tech Stack 
 
 **Frontend Development:**
