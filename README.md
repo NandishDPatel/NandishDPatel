@@ -7,11 +7,11 @@ I'm a **Master's student in  Computer Science** at the University of Texas at Ar
 - 🚀 Open to collaboration on innovative projects
 - 🎯 Looking for full time opprtunities across USA
 - 📫 Reach me at: **nandishdpatel22@gmail.com**
-- 💼 Portfolio: **https://react-nandish-portfolio.vercel.app/**
+- 💼 Portfolio: **[Portfolio](https://react-nandish-portfolio.vercel.app/)
 - 🌐 Live architect frontend website: **[Lineup Studio](https://www.lineupstudio.in/)**
-- 🌐 Live eshoppy frontend website: **https://eshoppy-website.vercel.app/**
+- 🌐 Live eshoppy frontend website: **[EShoppy Website](https://eshoppy-website.vercel.app/)**
 
-- Want to play a card game with your friends ? Check it out: Judgment (Kachuful) => https://judgment-card-game.vercel.app/
+- Want to play a card game with your friends ? Check it out: Judgment (Kachuful) => [Card Game](https://judgment-card-game.vercel.app/)
 
 ## 🛠️ Tech Stack 
 
